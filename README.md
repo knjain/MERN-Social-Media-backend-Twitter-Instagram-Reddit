@@ -9,6 +9,6 @@ I have implemented functionalities including posting, commenting, liking, repost
 
 Programmed 40+ Rest APIs to handle the different functionalities and tested them using Postman.
 
-I you are wondering why this project has only 1 or 2 commits, it is becasue this is a clone of my original project which i cannot keep public duw to security,NDA and client confidentiality. 
+I you are wondering why this project has only 1 or 2 commits, it is becasue this is a clone of my original project which I cannot keep public due to security,NDA and client confidentiality. 
 Thanks for understanding.
 
